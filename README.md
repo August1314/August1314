@@ -49,7 +49,7 @@ Live: [kaoyan-reality-radar-web.vercel.app](https://kaoyan-reality-radar-web.ver
 
 ### [nicehouse](https://github.com/August1314/nicehouse)
 
-一个当前以 C# 为主的公开项目仓库；如果你后续补上更明确的 description，我可以再把这里改成更像作品展示的版本。
+一个用于计算机图形学课程的 Unity + C# 三维可视化项目，围绕“好房子”主题实现环境智控、智能监护和分层数据可视化等模块。
 
 ## Snapshot
 
