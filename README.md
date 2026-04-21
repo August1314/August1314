@@ -47,9 +47,9 @@
 一个已经上线的考研择校现实判断工具原型，用真实数据、信息结构和直接可用的前端体验帮助用户更快完成判断。  
 Live: [kaoyan-reality-radar-web.vercel.app](https://kaoyan-reality-radar-web.vercel.app)
 
-### [TStoMP4](https://github.com/August1314/TStoMP4)
+### [nicehouse](https://github.com/August1314/nicehouse)
 
-一个面向 macOS 的桌面小工具，使用 FFmpeg、Python 和 Tkinter 将 TS 视频转换为 MP4，并在快速封装失败时自动回退到重编码流程。
+一个当前以 C# 为主的公开项目仓库；如果你后续补上更明确的 description，我可以再把这里改成更像作品展示的版本。
 
 ## Snapshot
 
