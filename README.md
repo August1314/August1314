@@ -28,8 +28,8 @@
 - ⚙️ 技术背景：公开仓库目前以 Python 为主，也持续在 Web 和系统基础课方向做项目
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=August1314&show_icons=true&hide_border=true&rank_icon=github&count_private=false&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=August1314&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages" />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 ## Selected Projects
